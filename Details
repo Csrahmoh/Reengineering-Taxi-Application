@@ -1,0 +1,52 @@
+This report has been re-engineered by:
+     1- Rahaf Almohammadi 
+     2- Sara Hadi 
+     3- Ghaidaa Namnkani 
+     4- Mutyiah Alsaiari 
+     5- Khadijah sayed 
+Supervised by:
+     Dr.IBTEHAL NAFEA
+
+
+Abstract:
+The Application is for the taxi service and people,  it’s purpose is to make the taxi service easier and more convenient for both customers and taxi drivers.
+It helps save people time and makes  opportunities for those who need a job.
+We will re-engineer the taxi system in addition to provide monthly subscription for delivery to workplaces and provide smart cars [Future feature]
+with a robot  driver.
+
+The report contains 5 chapters:
+     1- Introduction 
+         1.1   Project Objectives
+         1.2   Project Timeline <By gantt chart>
+         1.3  Background Related work
+     2- System Analysis
+         2.1    Requirements Elicitation
+                 2.1.1  Functional Requirements
+                 2.1.2  Non Functional Requirements
+                 2.1.3  User Requirements or Domain requirements
+         2.2  Requirements Specification
+                 2.2.1  Use case diagrams and description <By StarUML>
+      3- System Design
+         3.1 Architectural design  
+         3.2 Object Oriented Design
+                 3.2.1 Structural Static Models 
+                    . Class diagram <By StarUML>
+                 3.2.2 Dynamic Models
+                    . Activity diagrams <By StarUML>
+                    . Statechart diagrams <By StarUML>
+                    . Sequence diagrams <By StarUML>
+         3.3 User Interface Design
+                 3.3.1 Customer pages <By AdobeXD>
+                 3.3.2 Driver pages <By AdobeXD>
+       4- Conclusion and Future Work
+          4.1 Conclusion
+          4.2 Limitations and Future Work 
+       5- References
+
+
+
+
+
+
+
+   
